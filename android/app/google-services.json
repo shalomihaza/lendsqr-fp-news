@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055546331118",
+    "project_id": "lendsqr-fp-news-fc691",
+    "storage_bucket": "lendsqr-fp-news-fc691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055546331118:android:67424d9829e627ea5788ff",
+        "android_client_info": {
+          "package_name": "com.lendsqrfpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055546331118-2n3q09n2sj8shauvbonre8vek1lm9vng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lendsqrfpnews",
+            "certificate_hash": "7db7cf6094b61607e126b5afc0f301545d4d1493"
+          }
+        },
+        {
+          "client_id": "1055546331118-ralij65unffgm9j1an6oife7m9djji3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvV9wBt05wJcSMHAEcybkvGgtOKFMjlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055546331118-ralij65unffgm9j1an6oife7m9djji3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
