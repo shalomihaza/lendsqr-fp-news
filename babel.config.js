@@ -25,6 +25,7 @@ module.exports = {
           features: './src/features',
           store: './src/store',
           theme: './src/theme',
+          lib: './src/lib',
           utils: './src/utils',
         },
       },

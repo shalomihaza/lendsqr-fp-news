@@ -12,6 +12,7 @@
       "navigation": ["./src/navigation/*"],
       "features": ["./src/features/*"],
       "theme": ["./src/theme/*"],
+      "lib": ["./src/lib/*"],
       "utils": ["./src/utils/*"]
     }
   },
