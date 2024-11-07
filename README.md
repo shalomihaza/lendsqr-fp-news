@@ -34,8 +34,8 @@ Lendsqr FP News is a React Native application that allows users to browse and re
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/FPNews.git
-   cd FPNews
+   git clone https://github.com/shalomihaza/lendsqr-fp-news.git.
+   cd lendsqr-fp-news
    ```
 
 2. Install dependencies:
